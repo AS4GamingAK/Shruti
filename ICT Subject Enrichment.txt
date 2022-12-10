@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>CYBER ETHICS</title>
+</head>
+<body>
+<center>
+<h2 style="font-family:Cooper Black; color:green;">My Name is Amol from Class VIII Lodhi Section</h2>
+<img src="https://blog.numbernagar.com/wp-content/uploads/2019/11/thinkuknow-poster.jpg" width="500">
+</center>
+<marquee direction="Right" height="28" widht="800" bgcolor="white" behavior="alternate" scrollamount="20" style="font-size: 25px;"><b>BE CYBER SAFE  IN THE CYBER WORLD</b></marquee>
+<h4 style="color:blue; font-family:Cooper Black;"><u>CYBER ETHICS</u></h4>
+<ol type="i">
+<li>Personal Privacy</li>
+<li>Intellectual Property</li>
+<li>Cybersecurity</li>
+<li>Cybercrime</li>
+<li>Digital Divide</li>
+</ol>
+<h4 style="color:red; font-family:Cooper Black;"><u>CYBER THREATS</u></h4>
+<ul type="square">
+<li>Phishing Attacks</li>
+<li>Malware Attacks</li>
+<li>Ransomware</li>
+<li>Weak Passwords</li>
+<li>Insider Threats</li>
+</ul>
+</body>
+</html>
